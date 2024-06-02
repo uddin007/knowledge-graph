@@ -43,7 +43,9 @@ To store and represent the results in Neo4j graph database, following steps are 
 10. Store results to Neo4j database
 11. Run queries and visualize
 
-![image](https://github.com/uddin007/knowledge-graph/assets/37245809/af4b593d-711c-442d-98fc-9cbf48e315d6)
+![image](https://github.com/uddin007/knowledge-graph/assets/37245809/fa623822-7fec-4a80-9234-8fc41ae0e17f)
+
+
 
 
 
